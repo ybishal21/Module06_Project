@@ -7,7 +7,7 @@ This repository has the projects04 and project05, which are in two different bra
 ## **Contents**
 - project04_implementing_Linked_list
 - project05_implementing_stack
-- Brannches
+- Branches
 
 
 ## **Project04_implementing_Linked_list**
