@@ -37,7 +37,7 @@ Creates a List based on user input and sorts it in Ascending order. Adds sorted 
 ## **Branches**
  The base branch is master, from where below two branches are created which content Module04 and Module05 projects respectively.
  1. Link for project04_implementing_Linked_list branch
-    https://github.com/ybishal21/Module06_Project/tree/project04_implementing_Linked_List
+    https://github.com/ybishal21/Module06_Project/tree/project04_implementing_Linked_list
 
  2. Link for project05_implementing_stack branch
     https://github.com/ybishal21/Module06_Project/tree/project05_implementing_stack
